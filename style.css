@@ -1,0 +1,131 @@
+table, th, td {
+    border: 1px solid black
+    
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    font-size: 30px;
+}
+
+.black {
+    background-color: black;
+}
+.teal {
+    background-color: teal;
+}
+.blue {
+    background-color: blue;
+}
+.navy {
+    background-color: navy;
+}
+.lime {
+    background-color: lime;
+}
+.white {
+    background-color: white;
+}
+.purple {
+    background-color: purple;
+}
+.yellow {
+    background-color: yellow;
+}
+.olive {
+    background-color: olive;
+}
+.red {
+    background-color: red;
+}
+.maroon {
+    background-color: maroon; 
+}
+.gray {
+    background-color: gray;
+}
+.fuchsia {
+    background-color: fuchsia;
+}
+.green {
+    background-color: green;
+}
+.colores {
+    background-color: green;
+}
+.blackp {
+    color: black;
+}
+.tealp {
+    color: teal;
+}
+.bluep {
+    color: blue;
+}
+.limep {
+    color: lime;
+}
+.purplep {
+    color: purple;
+}
+.yellowp {
+    color: yellow;
+}
+.olivep {
+    color: olive;
+}
+.redp {
+    color: red;
+    
+}
+.marronp {
+    color: maroon;
+}
+.grayp {
+    color: gray;
+}
+.fuchsiap {
+    color: fuchsia;
+}
+.greenp {
+    color: green;
+}
+.aquap {
+    color: aqua;
+}
+.silverp {
+    color: silver;
+}
+.navyp {
+    color: navy;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+    margin: 5px;
+}
+
+body {
+    background-image: url(./img/fondo\ madera.jpg);
+    
+}
+div {
+    position:absolute;
+    margin-left: 100px;
+    
+
+}
+ h1 {
+     
+     text-align: center;
+    
+    
+}
+h2 {
+    text-align: center;
+}
